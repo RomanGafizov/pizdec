@@ -1,4 +1,4 @@
-public static void main() 
+ void main() 
 {
         System.out.println("Invalid format");
         return;  
